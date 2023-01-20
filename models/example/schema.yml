@@ -2,6 +2,6 @@
 version: 2
 
 models:
-    - name: my_first_dbt_model
-      description: "A starter dbt model"
+    - name: stg_turbo_lfa1
+      description: "A vendor turbo table"
       
